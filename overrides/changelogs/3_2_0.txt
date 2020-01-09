@@ -1,0 +1,18 @@
+3.2.0 Update
+
+
+Mods Added:
+-Phosphor (Lighting fixes that improves preformance)
+	-phosphor-1.12.2-0.2.6+build50-universal.jar
+
+
+Mods Updated:
+-FORGE 14.23.5.2846
+-
+
+
+Changes:
+-Fixed Rustic rope recipe conflict
+-Added NetherQuartz/FluixDust/CertusQuart to IC2 macerator
+-Added Thermal Foundation Steel Shovel to RC Adv. Loader/Unloader recipe
+-Disable Twilight Forest Uncrafting Table due to recipe exploits-

@@ -1,0 +1,183 @@
+{
+	"populate": {
+		"certus": {
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+					{"name": "appliedenergistics2:quartz_ore", "weight":95},
+					{"name": "appliedenergistics2:charged_quartz_ore", "weight":5}
+				],
+				"material": "stone",
+				"cluster-size": 4
+			},
+			"cluster-count": 10,
+			"min-height": 24,
+			"max-height": 48,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"apatite": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "forestry:resources",
+				"material": "stone",
+				"cluster-size": 16
+			},
+			"cluster-count": 1,
+			"min-height": 54,
+			"max-height": 96,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1,
+					-2
+				]
+			}
+		},
+		"alum": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "thermalfoundation:ore",
+					"metadata": 4
+				},
+				"material": "stone",
+				"cluster-size": 4
+			},
+			"cluster-count": 8,
+			"min-height": 48,
+			"max-height": 72,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"uraniumyellorite": {
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+					{"name": "bigreactors:oreyellorite", "weight":80},
+					{"name": "ic2:resource", "metadata": 4, "weight":20}
+				],
+				"material": "stone",
+				"cluster-size": 8
+			},
+			"cluster-count": 4,
+			"min-height": 16,
+			"max-height": 42,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"iridium": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "thermalfoundation:ore",
+					"metadata": 7
+				},
+				"material": "stone",
+				"cluster-size": 1
+			},
+			"cluster-count": 2,
+			"min-height": 8,
+			"max-height": 75,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"blackquartz": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "actuallyadditions:block_misc",
+					"metadata": 3
+				},
+				"material": "stone",
+				"cluster-size": 6
+			},
+			"cluster-count": 4,
+			"min-height": 32,
+			"max-height": 48,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"resonating": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "deepresonance:resonating_ore",
+				"material": "stone",
+				"cluster-size": 2
+			},
+			"cluster-count": 2,
+			"min-height": 16,
+			"max-height": 32,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"zinc": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "railcraft:ore_metal",
+					"metadata": 5
+				},
+				"material": "stone",
+				"cluster-size": 6
+			},
+			"cluster-count": 4,
+			"min-height": 8,
+			"max-height": 32,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}

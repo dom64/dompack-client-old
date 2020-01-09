@@ -1,0 +1,9 @@
+{
+	"generators" :
+	{
+		"ruby" :
+		{
+			"amountPerChunk" : 0
+		}
+	}
+}

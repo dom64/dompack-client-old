@@ -1,0 +1,6 @@
+3.0.1 Hotfix
+
+Changes:
+-Fixed Iron and Gold ore spawn amounts
+-Changed quark slot highlights to 'shift' only
+-Disabled quark trashcan as duplicate of FTBU's

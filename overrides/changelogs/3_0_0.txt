@@ -1,0 +1,133 @@
+3.0.0 Major Update
+
+*World Resets Required to update to 3.X.X
+
+
+Mods Added:
+-Advanced Machines
+-Advanced Solar Panels
+-Biomes O Plenty
+-Buildcraft
+-cc-Tweaked (Computer Craft)
+-FTB Backups
+-Gravitation Suite
+-Immersive Cables
+-Railcraft
+-Random Patches
+-Soul Shard Respawn
+
+
+Mods Removed:
+-Compactor
+-Compact Machines 3
+-Embers
+-Extra Cells
+-Extra Rails
+-KleeSlabs
+-Nether Portal Fix
+-Open Computers
+-Roots 2
+-Secret Rooms
+-Signals
+-Soot
+-Soul Shards TOW
+-Traverse
+
+
+Mods Updated:
+-DankNull-1.12-1.4.46.jar 
+-ActuallyAdditions-1.12.2-r147.jar 
+-Aroma1997Core-1.12.2-2.0.0.2.jar 
+-Aroma1997s-Dimensional-World-1.12.2-2.0.0.2.b89.jar 
+-AutoRegLib-1.3-28.jar 
+-base-1.12.2-3.12.1.jar 
+-BetterAdvancements-1.12.2-0.1.0.77.jar 
+-binnie-mods-1.12.2-2.5.1.188.jar 
+-blockcraftery-1.12.2-1.2.0.jar 
+-BloodMagic-1.12.2-2.4.0-102.jar 
+-Bookshelf-1.12.2-2.3.577.jar 
+-Botania r1.10-361.jar 
+-chiselsandbits-14.32.jar 
+-Clumps-3.1.2.jar 
+-CoFHCore-1.12.2-4.6.2.25-universal.jar 
+-conarm-1.12.2-1.2.3.4.jar 
+-CookingForBlockheads_1.12.2-6.4.70.jar 
+-CraftTweaker2-1.12-4.1.17.jar 
+-DarkUtils-1.12.2-1.8.226.jar 
+-deepresonance-1.12-1.8.0.jar 
+-ElecCore-1.12.2-1.9.452.jar 
+-EnderCore-1.12.2-0.5.57.jar 
+-environmentaltech-1.12.2-2.0.20.1.jar 
+-etlunar-1.12.2-2.0.20.1.jar 
+-extrautils2-1.12-1.9.9.jar 
+-ExtremeReactors-1.12.2-0.4.5.66.jar 
+-foamfix-0.10.5-1.12.2.jar 
+-forestry_1.12.2-5.8.2.387.jar 
+-ForgeMultipart-1.12.2-2.6.1.81-universal.jar 
+-FTBGuides-1.0.2.33.jar 
+-FTBLib-5.4.1.99.jar 
+-ImmersiveEngineering-0.12-89.jar 
+-IndustrialWires-1.7-36.jar 
+-IntegrationForegoing-1.12.2-1.9.jar 
+-ironchest-1.12.2-7.0.59.842.jar 
+-journeymap-1.12.2-5.5.4.jar 
+-jehc-1.12.2-1.6.3.jar 
+-jei_1.12.2-4.15.0.268.jar 
+-letsencryptcraft-1.10.2-1.2.0.jar 
+-Mantle-1.12-1.3.3.49.jar 
+-modtweaker-4.0.17.jar 
+-Morph-o-Tool-1.2-21.jar 
+-Morpheus-1.12.2-3.5.106.jar 
+-MouseTweaks-2.10-mc1.12.2.jar 
+-MTLib-3.0.6.jar 
+-mysticallib-1.12.2-1.1.1.jar 
+-natura-1.12.2-4.3.2.66.jar 
+-notenoughwands-1.12-1.8.1.jar 
+-NotEnoughIDs-1.5.4.4.jar 
+-OpenBlocks-1.12.2-1.8.1.jar 
+-OpenModsLib-1.12.2-0.12.2.jar 
+-p455w0rdslib-1.12.2-2.1.44.jar 
+-Pam's HarvestCraft 1.12.2zc.jar 
+-Placebo-1.12.2-1.6.0.jar 
+-RebornCore-1.12.2-3.13.12.447-universal.jar 
+-RedstoneArsenal-1.12.2-2.6.2.17-universal.jar 
+-refinedstorage-1.6.14.jar 
+-refinedstorageaddons-0.4.4.jar 
+-Reliquary-1.12.2-1.3.4.786.jar 
+-rftools-1.12-7.71.jar 
+-rftoolsctrl-1.12-2.0.2.jar 
+-rftoolspower-1.12-1.2.0.jar 
+-rustic-1.1.0.jar 
+-shetiphiancore-1.12.0-3.5.9.jar 
+-SplashAnimation-0.2.1.jar 
+-StevesCarts-1.12.2-2.4.30.134.jar 
+-ThaumicJEI-1.12.2-1.6.0-27.jar 
+-lostcities-1.12-2.0.19.jar 
+-theoneprobe-1.12-1.4.28.jar 
+-ThermalCultivation-1.12.2-0.3.2.11-universal.jar 
+-ThermalDynamics-1.12.2-2.5.4.18-universal.jar 
+-ThermalExpansion-1.12.2-5.5.3.41-universal.jar 
+-ThermalFoundation-1.12.2-2.6.2.26-universal.jar 
+-ThermalInnovation-1.12.2-0.3.2.11-universal.jar 
+-TConstruct-1.12.2-2.12.0.135.jar 
+-TipTheScales-1.12.2-1.0.4.jar 
+-topaddons-1.12.2-1.11.0.jar 
+-valkyrielib-1.12.2-2.0.20.1.jar 
+-woot-1.12.2-1.4.10.jar 
+-xnet-1.12-1.8.1.jar 
+-nice-1.12-0.4.0.jar 
+-YABBA-1.1.2.51.jar 
+-zerocore-1.12.2-0.1.2.8.jar 
+-FTBUtilities-5.4.0.96.jar 
+-astralsorcery-1.12.2-1.10.18.jar 
+-BrandonsCore-1.12.2-2.4.12.205-universal.jar 
+-Draconic-Evolution-1.12.2-2.3.22.343-universal.jar 
+-EnderIO-1.12.2-5.0.44.jar 
+-FastWorkbench-1.12.2-1.7.1.jar 
+-industrialcraft-2-2.8.152-ex112.jar 
+-industrialforegoing-1.12.2-1.12.12-236.jar 
+-mcjtylib-1.12-3.5.2.jar 
+-Quark-r1.5-150.jar 
+-RebornStorage-1.12.2-3.3.3.83.jar 
+-SimplyJetpacks2-1.12.2-2.2.12.65.jar 
+-thutcore-1.12.2-5.20.2.jar

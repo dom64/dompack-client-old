@@ -1,0 +1,9 @@
+{
+	"generators" :
+	{
+		"peridot" :
+		{
+			"amountPerChunk" : 0
+		}
+	}
+}
