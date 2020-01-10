@@ -1,261 +1,189 @@
 {
     "images":
     {
-		"modpack":
-		{
-            "image" : "mainmenu:modpack.png",
-            "posX" : -125,
-            "posY" : -5,
-            "width" : 250,
-            "height" : 150,
+        "title":
+        {
+            "image" : "modpack:title/domcraft.png",
+            "posX" : -137,
+            "posY" : 30,
+            "width" : 275,
+            "height" : 50,
+            "imageWidth" : 1606,
+            "imageHeigth" : 319,
             "alignment" : "top_center"
-		}
+        },
+        
+        "edition":
+        {
+            "image" : "custommainmenu:textures/gui/edition.png",
+            "posX" : -49,
+            "posY" : 67,
+            "width" : 128,
+            "height" : 16,
+            "alignment" : "top_center"
+        }
     },
     
     "buttons":
     {
         "singleplayer":
         {
-            "text" : "Singleplayer",
-            "posX" : 0,
-            "posY" : -28,
-			"textOffsetX" : -10,
-            "width" : 98,
-            "height" : 14,
-            "normalTextColor" : -1,
-			"hoverTextColor" : 10027008,
-			"alignment" : "left_center",
-			"texture" : "mainmenu:blankbutton.png",
+            "text" : "menu.singleplayer",
+            "posX" : -100,
+            "posY" : 48,
+            "width" : 200,
+            "height" : 20,
             "action" : 
             {
                 "type" : "openGui",
                 "gui" : "singleplayer"
             }
-        },        
+        },
+        
         "multiplayer":
         {
-            "text" : "Multiplayer",
-            "posX" : 0,
-            "posY" : -14,
-			"textOffsetX" : -14,
-            "width" : 98,
-            "height" : 14,
-            "normalTextColor" : -1,
-			"hoverTextColor" : 10027008,
-			"alignment" : "left_center",
-			"texture" : "mainmenu:blankbutton.png",
+            "text" : "menu.multiplayer",
+            "posX" : -100,
+            "posY" : 72,
+            "width" : 200,
+            "height" : 20,
             "action" : 
             {
                 "type" : "openGui",
                 "gui" : "multiplayer"
             }
         },
-        "options":
-        {
-            "text" : "Options",
-            "posX" : 0,
-            "posY" : 0,
-			"textOffsetX" : -23,
-            "width" : 98,
-            "height" : 14,
-            "normalTextColor" : -1,
-			"hoverTextColor" : 10027008,
-			"alignment" : "left_center",
-			"texture" : "mainmenu:blankbutton.png",
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "options"
-            }
-        },		
+
+      
         "mods":
         {
-            "text" : "Mods",
-            "posX" : 0,
-            "posY" : 14,
-			"textOffsetX" : -28,
-            "width" : 98,
-            "height" : 14,
-            "normalTextColor" : -1,
-			"hoverTextColor" : 10027008,
-			"alignment" : "left_center",
-			"texture" : "mainmenu:blankbutton.png",
+            "text" : "fml.menu.mods",
+            "posX" : -100,
+            "posY" : 96,
+            "width" : 200,
+            "height" : 20,
             "action" : 
             {
                 "type" : "openGui",
                 "gui" : "mods"
             }
         },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : -100,
+            "posY" : 132,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : 2,
+            "posY" : 132,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
         "language":
         {
-            "text" : "Language",
-            "posX" : 0,
-            "posY" : 28,
-			"textOffsetX" : -16,
-            "width" : 98,
-            "height" : 14,
-            "normalTextColor" : -1,
-			"hoverTextColor" : 10027008,
-			"alignment" : "left_center",
-			"texture" : "mainmenu:blankbutton.png",
+            "text" : "",
+            "posX" : -124,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
             "action" : 
             {
                 "type" : "openGui",
                 "gui" : "languages"
             }
         },
-        "pack support":
-        {
-            "text" : "Pack Support",
-            "posX" : -90,
-            "posY" : -28,
-			"textOffsetX" : 0,
-            "width" : 98,
-            "height" : 14,
-            "normalTextColor" : -1,
-			"hoverTextColor" : 10027008,
-			"alignment" : "right_center",
-			"texture" : "mainmenu:blankbutton.png",
-            "action" : 
-            {
-                "type" : "openLink",
-				"link" : "https://github.com/FTBTeam/FTB-Revelation-2/issues"
-            }
-        },		
-        "changelog":
-        {
-            "text" : "Changelogs",
-            "posX" : -90,
-            "posY" : -14,
-			"textOffsetX" : 5,
-            "width" : 98,
-            "height" : 14,
-            "normalTextColor" : -1,
-			"hoverTextColor" : 10027008,
-			"alignment" : "right_center",
-			"texture" : "mainmenu:blankbutton.png",
-            "action" : 
-            {
-                "type" : "openLink",
-				"link" : "https://www.feed-the-beast.com/projects/ftb-revelation/files"
-            }
-        },
-		"website":
-        {
-            "text" : "Website",
-            "posX" : -90,
-            "posY" : 0,
-			"textOffsetX" : 15,
-            "width" : 98,
-            "height" : 14,
-            "normalTextColor" : -1,
-			"hoverTextColor" : 10027008,
-			"alignment" : "right_center",
-			"texture" : "mainmenu:blankbutton.png",
-            "action" : 
-            {
-                "type" : "openLink",
-				"link" : "http://www.feed-the-beast.com/"
-            }
-        },		
-		"forums":
-        {
-            "text" : "Forums",
-            "posX" : -90,
-            "posY" : 14,
-			"textOffsetX" : 15,
-            "width" : 98,
-            "height" : 14,
-            "normalTextColor" : -1,
-			"hoverTextColor" : 10027008,
-			"alignment" : "right_center",
-			"texture" : "mainmenu:blankbutton.png",
-            "action" : 
-            {
-                "type" : "openLink",
-				"link" : "http://forum.feed-the-beast.com/forum/"
-            }
-        },				        
-        "quit":
-        {
-            "text" : "Quit",
-            "posX" : -90,
-            "posY" : 28,
-			"textOffsetX" : 22,
-            "width" : 98,
-            "height" : 14,
-            "normalTextColor" : -1,
-			"hoverTextColor" : 10027008,
-			"alignment" : "right_center",
-			"texture" : "mainmenu:blankbutton.png",
-            "action" : 
-            {
-                "type" : "quit"
-            }
-        },	        
+        
         "refresh":
         {
             "text" : "",
-            "posX" : -20,
-            "posY" : 0,
+            "posX" : -154,
+            "posY" : 132,
             "width" : 20,
             "height" : 20,
-			"alignment" : "top_right",
-            "texture" : "mainmenu:refresh.png",
+            "texture" : "custommainmenu:textures/gui/buttons.png",
             "action" : 
             {
                 "type" : "refresh"
             }
-        }	
+        }
     },
     
     "labels":
     {
-		"forge":{
-			"text" : "Forge #forgeversion#",
-            "posX" : 2,
-            "posY" : -13,
-			"fontSize" : .6,
-            "color" : -1,
-			"hoverColor" : -1,
-            "alignment" : "bottom_left"
-		},
-		"modsloaded":{
-			"text" : "#modsloaded# Mods Loaded",
-            "posX" : 2,
-            "posY" : -7,
-			"fontSize" : .6,
-            "color" : -1,
-			"hoverColor" : -1,
-            "alignment" : "bottom_left"
-		},
-		"minecraft":{
-			"text" : "Minecraft 1.12.2",
-            "posX" : -50,
-            "posY" : -13,
-			"fontSize" : .6,
-            "color" : -1,
-			"hoverColor" : -1,
-            "alignment" : "bottom_right"
-		},
-		"mojang":
+        "mojang":
         {
-            "text" : "Copyright Mojang AB",
-            "posX" : -65,
-            "posY" : -7,
-			"fontSize" : .6,
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "hoverText" : "§nCopyright Mojang AB. Do not distribute!",
+            "posX" : -197,
+            "posY" : -10,
             "color" : -1,
-			"hoverColor" : -1,
-            "alignment" : "bottom_right"
+            "alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "credits"
+            }
+        },
+
+        "Domcord":
+        {
+            "text" : "Domcord",
+            "hoverText" : "Join you bastard",
+            "posX" : -198,
+            "posY" : -20,
+            "color" : -1,
+            "alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://discord.gg/KYtsHM"
+            }
+        },
+
+        "fml":
+        {
+            "text" : "",
+            "posX" : 2,
+            "posY" : -40,
+            "color" : -1,
+            "alignment" : "bottom_left"
         }
     },
-    
     "other":
     {
-		"background":
-		{
-			"image" : "mainmenu:background.png",
-			"mode" : "fill"
-		}
+        "splash-text":
+        {
+            "posX" : 90,
+            "posY" : 70,
+            "color" : -256,
+            "alignment" : "top_center",
+            "texts" : "file:modpack:texts/splashes.txt"
+        },
+        
+        "panorama":
+        {
+            "images" : "modpack:panorama/panorama_%c.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : true,
+            "gradient" : true
+        }
     }
 }
