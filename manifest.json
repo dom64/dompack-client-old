@@ -991,15 +991,11 @@
       "projectID": 310240,
       "fileID": 2655176,
       "required": true
-<<<<<<< HEAD
     },
     {
 	"projectID": 285439,
       "fileID": 2849412,
       "required": true
-    }
-=======
     } 
->>>>>>> 8b7522ce8a2ff8eb486e7e488c52f65f8b036013
   ]
 }
