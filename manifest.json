@@ -14,7 +14,8 @@
   "overrides": "overrides",
   "version": "1.0.0",
   "author": "domcord",
-  "files": [
+  "files": 
+  [
     {
       "projectID": 228404,
       "fileID": 2774057,
@@ -973,6 +974,22 @@
     {
       "projectID": 247921,
       "fileID": 2670570,
+      "required": true
+    },
+
+    {
+      "projectID": 285742,
+      "fileID": 2775709,
+      "required": true
+    },
+    {
+      "projectID": 59693,
+      "fileID": 2824328,
+      "required": true
+    },
+    {
+      "projectID": 310240,
+      "fileID": 2655176,
       "required": true
     },
     {
