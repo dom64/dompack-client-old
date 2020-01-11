@@ -186,15 +186,6 @@ recipes.addShapeless(<ic2:casing:5> * 2,
 	[<thermalfoundation:material:352>,<ic2:forge_hammer>]
 );
 
-	#Essence of Scornful Oblivion
-recipes.addShaped(<magicbees:resource:11>,
-	[
-		[<magicbees:resource:8>, <minecraft:skull:1>, <magicbees:resource:9>],
-		[<minecraft:skull:1>, null, <minecraft:skull:1>],
-		[<magicbees:resource:9>, <minecraft:skull:1>, <magicbees:resource:8>]
-	]
-);
-
 	#Computercraft modem fix
 recipes.remove(<computercraft:cable:1>);
 recipes.addShapeless(<computercraft:wired_modem_full>,
