@@ -973,17 +973,7 @@
       "required": true
     },
     {
-	  "projectID": 2851049,
-      "fileID": 356326,
-      "required": true
-    },
-    {
-	  "projectID": 282164,
-      "fileID": 2501251,
-      "required": true
-    },
-    {
-	  "projectID": 229060,
+      "projectID": 229060,
       "fileID": 2801262,
       "required": true
     }
