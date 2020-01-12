@@ -10,6 +10,7 @@
             "height" : 50,
             "imageWidth" : 1606,
             "imageHeigth" : 319,
+            "hoverImage" : "modpack:title/domcraft2.png",
             "alignment" : "top_center"
         },
         
