@@ -97,17 +97,18 @@
             }
         },
         
-        "language":
+        "Chungon":
         {
             "text" : "",
             "posX" : -124,
             "posY" : 132,
             "width" : 20,
             "height" : 20,
+            "texture" : "modpack:buttons/Chungontexture.png",
             "action" : 
             {
-                "type" : "openGui",
-                "gui" : "languages"
+                "type" : "openLink",
+                "link" : "https://discord.gg/CzwrbuH"
             }
         },
         
@@ -131,7 +132,7 @@
         "mojang":
         {
             "text" : "Copyright Mojang AB. Do not distribute!",
-            "hoverText" : "§nCopyright Mojang AB. Do not distribute!",
+            "hoverText" : "§nBig Big Chungus Big Chungus Big Chungus funny!",
             "posX" : -197,
             "posY" : -10,
             "color" : -1,
@@ -140,21 +141,6 @@
             {
                 "type" : "openGui",
                 "gui" : "credits"
-            }
-        },
-
-        "Domcord":
-        {
-            "text" : "Domcord",
-            "hoverText" : "Join you bastard",
-            "posX" : -198,
-            "posY" : -20,
-            "color" : -1,
-            "alignment" : "bottom_right",
-            "action" : 
-            {
-                "type" : "openLink",
-                "link" : "https://discord.gg/KYtsHM"
             }
         },
 
