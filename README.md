@@ -2,12 +2,11 @@
 A fork of FTB Revelation customized for domcord.
 
 ## Installation
-1. Click the green `Clone or download` button.
-2. Click `Download ZIP`
-3. Open MultiMC
-4. Click `Add Instance`
-5. Click `Import from zip`
-6. Browse for the downloaded zip file, and press OK.
+1. Open MultiMC
+2. Click `Add Instance`
+3. Click `Import from zip`
+4. Add `https://github.com/dom64/dompack-client/archive/master.zip` in the prompt.
+5. Click `Ok`
 
 ## Changelogs
 Changelogs can be [found here](https://github.com/dom64/dompack-client/commits/master)
