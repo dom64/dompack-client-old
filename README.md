@@ -12,4 +12,4 @@ A fork of FTB Revelation customized for domcord.
 Changelogs can be [found here](https://github.com/dom64/dompack-client/commits/master)
 
 ## Credits
-[dom64](https://github.com/dom64), [jad](https://github.com/jadc), [Brazy](https://github.com/CrazyC787), [domcord](https://discord.gg/cvJqwyf)
+[Contributors](https://github.com/dom64/dompack-client/graphs/contributors), [FTB](https://www.curseforge.com/minecraft/modpacks/ftb-revelation), [domcord](https://discord.gg/cvJqwyf)
