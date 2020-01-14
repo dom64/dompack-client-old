@@ -7,31 +7,6 @@ print("Initializing 'unification.zs'...");
 recipes.remove(<thermalfoundation:material:257>);
 recipes.addShaped(<thermalfoundation:material:257>, [[null, <ore:ingotTin>, null], [<ore:ingotTin>, <ore:ingotIron>, <ore:ingotTin>], [null, <ore:ingotTin>, null]]);
 
-	#Unify RC oreDict Metals
-recipes.remove(<railcraft:ingot:*>);
-recipes.remove(<railcraft:metal:*>);
-recipes.remove(<railcraft:nugget:*>);
-recipes.addShaped(<railcraft:metal:8>,
-	[
-		[<railcraft:ingot:8>,<railcraft:ingot:8>,<railcraft:ingot:8>],
-		[<railcraft:ingot:8>,<railcraft:ingot:8>,<railcraft:ingot:8>],
-		[<railcraft:ingot:8>,<railcraft:ingot:8>,<railcraft:ingot:8>]
-	]
-);
-recipes.addShaped(<railcraft:ingot:8>,
-	[
-		[<railcraft:nugget:8>,<railcraft:nugget:8>,<railcraft:nugget:8>],
-		[<railcraft:nugget:8>,<railcraft:nugget:8>,<railcraft:nugget:8>],
-		[<railcraft:nugget:8>,<railcraft:nugget:8>,<railcraft:nugget:8>]
-	]
-);
-recipes.addShapeless(<railcraft:ingot:8>*9,
-	[<railcraft:metal:8>]
-);
-recipes.addShapeless(<railcraft:nugget:8>*9,
-	[<railcraft:ingot:8>]
-);
-
 	#Unidict remove plate recipes
 mods.unidict.removalByKind.get("Crafting").remove("plate");
 

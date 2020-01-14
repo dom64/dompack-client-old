@@ -222,21 +222,4 @@ recipes.addShaped(<rustic:rope> * 24,
 	]
 );
 
-	#Fix RC loader/Unloader steel shovels
-recipes.addShaped(<railcraft:manipulator:3>,
-	[
-		[<ore:ingotSteel>, <ore:dustRedstone>, <ore:ingotSteel>],
-		[<ore:dustRedstone>, <railcraft:manipulator:1>, <ore:dustRedstone>],
-		[<ore:ingotSteel>, <thermalfoundation:tool.shovel_steel>, <ore:ingotSteel>]
-	]
-);
-
-recipes.addShaped(<railcraft:manipulator:2>,
-	[
-		[<ore:ingotSteel>, <ore:dustRedstone>, <ore:ingotSteel>],
-		[<ore:dustRedstone>, <railcraft:manipulator>, <ore:dustRedstone>],
-		[<ore:ingotSteel>, <thermalfoundation:tool.shovel_steel>, <ore:ingotSteel>]
-	]
-);
-
 print("Initialized 'recipe_changes.zs'");
