@@ -139,8 +139,8 @@
             "alignment" : "bottom_right",
             "action" : 
             {
-                "type" : "openGui",
-                "gui" : "credits"
+                "type" : "openLink",
+                "link" : "https://www.youtube.com/watch?v=cB4dYfFgaME"
             }
         },
 
