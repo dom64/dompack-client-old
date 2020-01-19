@@ -1,12 +1,12 @@
 {
   "emotes": [
     "default",
-    "dab",
-    "confused",
-    "pure_salt",
-    "wave",
-    "star_power"
+    "infinite_dab",
+    "orange_justice",
+    "hype",
+    "twerk",
+    "t_pose"
   ],
-  "disableAnimations": false,
-  "enableSimpleModels": false
+  "disableAnimations": true,
+  "enableSimpleModels": true
 }
