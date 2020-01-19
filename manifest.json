@@ -1083,11 +1083,6 @@
       "required": true
     },
 	{
-      "projectID": 79616,
-      "fileID": 2777813,
-      "required": true
-    },
-	{
       "projectID": 291499,
       "fileID": 2685154,
       "required": true
@@ -1125,11 +1120,6 @@
 	{
       "projectID": 311624,
       "fileID": 2860049,
-      "required": true
-    },
-	{
-      "projectID": 229073,
-      "fileID": 2801266,
       "required": true
     },
 	{
