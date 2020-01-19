@@ -121,3 +121,4 @@ key_key.llor.hotkey:62:NONE
 key_key.modifier:13:NONE
 key_key.submode:0:NONE
 key_key.clipboardPaste:210:NONE
+key_emoticons.keys.emotes:74
