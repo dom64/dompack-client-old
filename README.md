@@ -9,7 +9,7 @@ A fork of FTB Revelation customized for domcord.
 5. Click `Ok`
 
 ## Changelogs
-Changelogs can be [found here](https://github.com/dom64/dompack-client/commits/master)
+Changelogs can be [found here](https://github.com/dom64/dompack-client/releases/download/1.0/dompack-client.zip)
 
 ## Credits
 [Contributors](https://github.com/dom64/dompack-client/graphs/contributors), [FTB](https://www.curseforge.com/minecraft/modpacks/ftb-revelation), [domcord](https://discord.gg/cvJqwyf)
