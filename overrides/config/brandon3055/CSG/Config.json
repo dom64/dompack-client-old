@@ -2,6 +2,5 @@
   "inventory": {
     "0:0": "minecraft:written_book,1,0,{pages:[\"{\\\"text\\\":\\\"On that night, the bastard son of Jad and Brazy was born, his name was Gilbert.\\\\nGilbert was promptly sacrificed at the smeltery and resurrected shortly after.\\\"}\",\"{\\\"text\\\":\\\"Gilbert was then forced to spend an\\\\neternity dying and being resurrected just to satisfy the greed of us.\\\\nGilbert now brings us misfortune and has manifested himself in the real word as a \\\\\\\"Block Company\\\\\\\".\\\\nThe second book will detail how to stop him.\\\"}\"],author:\"??? ?? ?????\",title:\"The Gilbert Upbringing\",resolved:1b}",
     "0:1": "minecraft:written_book,1,0,{pages:[\"{\\\"text\\\":\\\"If Biggie has not had a child in Stardew Valley yet, wait until he does so before opening the next page.\\\"}\",\"{\\\"text\\\":\\\"Biggie\\\\u0027s Stardew Valley wife must give birth to what will become the Anti-Gilbert.\\\\nAnti-Gilbert will be reincarnated into the modpack server using a random villager Biggie finds as a host.\\\"}\",\"{\\\"text\\\":\\\"Then you must find a way to draw out Gilbert and they will clash until one of them is dead.\\\"}\",\"{\\\"text\\\":\\\"Good luck.\\\"}\"],author:\"???? ????\",title:\"Stop him!\",resolved:1b}",
-    "0:2": "akashictome:tome"
   }
 }
